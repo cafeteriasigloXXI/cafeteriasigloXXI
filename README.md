@@ -17,14 +17,113 @@ Bienvenidos, acontinuación podran encontrar información acerca de este proyect
 | CLOUD | sigloxxicafeteria075@gmail.com | |
 | Gmail | sigloxxicafeteria075@gmail.com | 123456789DKE |
 
+# **Distribución del proyecto de desarrollo entre 4 personas ...**
 
-**Distribución ...**
+### -Con buena planificación y comunicación, se puede lograr de manera efectiva el proyecto 
+#### Aquí hay algunos pasos que vamos a seguir:
 
--Falta por hacer eisen.
+## 1. *Evaluando las fortalezas y habilidades de cada miembro del equipo:*
 
-**Caracteristicas del proyecto.**
+# * Eisenhawer Díaz
 
--Falta por hacer Eisen
+**Fortaleza**
+
+    > Organizado
+
+    > Estricto
+
+    > Responsable
+
+
+**Habilidad**
+
+    > Facil adaptacion a diferentesw entornos de trabajo
+
+    > agil
+
+    > eficaz 
+
+# * Dayron lopez
+  
+**Fortaleza**
+
+    > Se adapta rápido a cualquier tipo de situación.
+
+    > Responsable en las entregas propuestas.
+
+    > Apoya en situaciones de emergencia.
+
+    > Propone ideas para mejoras del proyecto.
+
+    > Siempre busca documentarse y aprender para apoyar el proyecto.
+
+
+**Habilidad**
+
+    > Bueno con la resolución de problemas
+
+    > Hagil con php y Laravel.
+
+    > Conocimientos de Git Hub.
+
+# * Kevin Ortiz
+   
+**Fortaleza**
+
+    > resiliente 
+
+    > buen trabajo en equipo
+
+    > rapido aprendizaje
+
+
+**Habilidad**
+
+    > pensamiento creativo
+
+    > bueno para resolver problemas
+
+# * Sebastián Bohórquez
+   
+**Fortaleza**
+
+    > resiliencia 
+
+    > persistencia 
+
+    > perseverancia 
+
+    > dedicacion
+
+
+**Habilidad**
+
+    > comunicación asertiva
+
+    > rapida solución de problemas.
+
+    > Razonamiento  
+
+#
+
+## 2. *Definicion  los roles y responsabilidades:*
+### Es importante que cada miembro del equipo entienda qué se espera de ellos y cuáles son sus responsabilidades específicas en el proyecto.
+
+| encargado | Rol | responsabilidades |
+| ------ | ---- | ---------------- |
+| Eisenhawer Díaz | Lider del proyecto | ayudar en el backend y frontend, estar atento de que las tareas asignadas se realicen en el tiempo correspondiente|
+| Dayron lopez  | Desarrollador Backend | Diseñar el backend del proyecto (models, controllers), realizar pruebas unitarias y su integracion |
+| kevin Ortiz | Desarrollador  frontend | Diseñar la interfaz del usuario, realizar el desarrollo en HTML5/CSS3/JavaScript, integrarlo |
+| sebastián bohorquez |  Desarrollador de la base de datos | diseñar  el esquema de la BD, realizar consultas, y dejar documentado | 
+
+
+## 3.*Establecer metas y plazos claros:* 
+### Definir metas claras y plazos realistas para cada fase del proyecto. Esto ayudará a mantener a todos enfocados y motivados.
+
+## 4.*herramientas de gestión de proyectos posibles a usar:* 
+### Se Considera utilizar herramientas como Trello, Asana o clickup para asignar tareas, hacer seguimiento del progreso y facilitar la colaboración.
+
+
 
 
 
