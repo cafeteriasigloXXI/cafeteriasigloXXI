@@ -4,7 +4,7 @@ Bienvenidos, acontinuación podran encontrar información acerca de este proyect
 
 | nombre | telefono | correo |  Rol |
 | --------------- | --------------------- | ---------------- | ---------------- |
-| Eisenhawer Valencia D. | 3043571169 | eisenhawer.valencia@cun.edu.co | LIDER -  backend |
+| Eisenhawer Valencia D. | 3043571169 | eisenhawer.valencia@cun.edu.co | LIDER -  backend - Fronend |
 | Dayron Ferney Lopez R. | 3013846294 | dayron.lopezr@cun.edu.co |  Backend |
 | kevin Steven Ortiz. | 3132429983 | kevin.ortizc@cun.edu.co |  Fronend | 
 | Joan Sebastian Bohorquez. | 3144517854 | joan.bohorquez@cun.edu.co |  Base de datos |
@@ -136,7 +136,7 @@ Los requisitos de este proyecto incluyen la gestión de diversos procesos empres
 La arquitectura deberá ser escalable y flexible para adaptarse a las necesidades cambiantes del cliente y del mercado. La aplicación web centralizada propuesta servirá como componente principal.
 
 *-Lenguaje de programación:*
-Se utilizará PHP con el framework de laravel 10 para el back y se esta pensando en utilizar React o VUE.JS.
+Se utilizará PHP con el framework de laravel 10 para el back y se esta pensando en utilizar React.
 
 *-Base de datos:*
 Se necesitará una base de datos para almacenar y gestionar la información de la empresa, incluyendo inventario, clientes, etc. Se utilizará Oracle.
