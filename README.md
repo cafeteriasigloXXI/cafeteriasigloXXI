@@ -109,12 +109,12 @@ Bienvenidos, acontinuación podran encontrar información acerca de este proyect
 ## 2. *Definicion  los roles y responsabilidades:*
 ### Es importante que cada miembro del equipo entienda qué se espera de ellos y cuáles son sus responsabilidades específicas en el proyecto.
 
-| encargado | Rol | responsabilidades |
-| ------ | ---- | ---------------- |
-| Eisenhawer Díaz | Lider del proyecto | ayudar en el backend y frontend, estar atento de que las tareas asignadas se realicen en el tiempo correspondiente|
-| Dayron lopez  | Desarrollador Backend | Diseñar el backend del proyecto (models, controllers), realizar pruebas unitarias y su integracion |
-| kevin Ortiz | Desarrollador  frontend | Diseñar la interfaz del usuario, realizar el desarrollo en HTML5/CSS3/JavaScript, integrarlo |
-| sebastián bohorquez |  Desarrollador de la base de datos | diseñar  el esquema de la BD, realizar consultas, y dejar documentado | 
+| encargado | Rol | responsabilidades | tiempo de entrega |
+| ------ | ---- | ---------------- | ---------------- | 
+| Eisenhawer Díaz | Lider del proyecto | ayudar en el backend y frontend, estar atento de que las tareas asignadas se realicen en el tiempo correspondiente| |
+| Dayron lopez  | Desarrollador Backend | Diseñar el backend del proyecto (models, controllers), realizar pruebas unitarias y su integracion | |
+| kevin Ortiz | Desarrollador  frontend | Diseñar la interfaz del usuario, realizar el desarrollo en HTML5/CSS3/JavaScript, integrarlo | |
+| sebastián bohorquez |  Desarrollador de la base de datos | diseñar  el esquema de la BD, realizar consultas, y dejar documentado | |
 
 
 ## 3.*Establecer metas y plazos claros:* 
