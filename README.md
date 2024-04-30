@@ -17,96 +17,14 @@ Bienvenidos, acontinuación podran encontrar información acerca de este proyect
 | CLOUD | sigloxxicafeteria075@gmail.com | |
 | Gmail | sigloxxicafeteria075@gmail.com | 123456789DKE |
 
-# **Distribución del proyecto de desarrollo entre 4 personas ...**
-
-### -Con buena planificación y comunicación, se puede lograr de manera efectiva el proyecto 
-#### Aquí hay algunos pasos que vamos a seguir:
-
-## 1. *Evaluando las fortalezas y habilidades de cada miembro del equipo:*
-
-# * Eisenhawer Díaz
-
-**Fortaleza**
-
-    > Organizado
-
-    > Estricto
-
-    > Responsable
-
-
-**Habilidad**
-
-    > Facil adaptacion a diferentesw entornos de trabajo
-
-    > agil
-
-    > eficaz 
-
-# * Dayron lopez
-  
-**Fortaleza**
-
-    > Se adapta rápido a cualquier tipo de situación.
-
-    > Responsable en las entregas propuestas.
-
-    > Apoya en situaciones de emergencia.
-
-    > Propone ideas para mejoras del proyecto.
-
-    > Siempre busca documentarse y aprender para apoyar el proyecto.
-
-
-**Habilidad**
-
-    > Bueno con la resolución de problemas
-
-    > Hagil con php y Laravel.
-
-    > Conocimientos de Git Hub.
-
-# * Kevin Ortiz
-   
-**Fortaleza**
-
-    > resiliente 
-
-    > buen trabajo en equipo
-
-    > rapido aprendizaje
-
-
-**Habilidad**
-
-    > pensamiento creativo
-
-    > bueno para resolver problemas
-
-# * Sebastián Bohórquez
-   
-**Fortaleza**
-
-    > resiliencia 
-
-    > persistencia 
-
-    > perseverancia 
-
-    > dedicacion
-
-
-**Habilidad**
-
-    > comunicación asertiva
-
-    > rapida solución de problemas.
-
-    > Razonamiento  
-
 #
+## 1 . problema 
+// colocar el problema
 
-## 2. *Definicion  los roles y responsabilidades:*
+## 2 . solucion del problema
+// colcoar la solucion 
+
+## 3 . *Definicion  los roles y responsabilidades:*
 ### Es importante que cada miembro del equipo entienda qué se espera de ellos y cuáles son sus responsabilidades específicas en el proyecto.
 
 | encargado | Rol | responsabilidades | tiempo de entrega |
@@ -117,17 +35,13 @@ Bienvenidos, acontinuación podran encontrar información acerca de este proyect
 | sebastián bohorquez |  Desarrollador de la base de datos | diseñar  el esquema de la BD, realizar consultas, y dejar documentado | |
 
 
-## 3.*Establecer metas y plazos claros:* 
-### Definir metas claras y plazos realistas para cada fase del proyecto. Esto ayudará a mantener a todos enfocados y motivados.
+## 4. modelo ER
 
-## 4.*herramientas de gestión de proyectos posibles a usar:* 
-### Se Considera utilizar herramientas como Trello, Asana o clickup para asignar tareas, hacer seguimiento del progreso y facilitar la colaboración.
-
+## 5 .*herramientas de gestión de proyectos posibles a usar:* 
+### Se Considera utilizar clickup para asignar tareas, hacer seguimiento del progreso y facilitar la colaboración.
 
 
-
-
-**Caracteristicas* tecnicas.**
+## **Caracteristicas* tecnicas.**
 
 *-Requisitos de software:*
 Los requisitos de este proyecto incluyen la gestión de diversos procesos empresariales, control de inventario, gestión de recursos humanos, gestión de clientes, facturación y análisis de estudios de mercado.
@@ -154,13 +68,13 @@ Se debe proporcionar documentación completa del software y del diseño en la nu
 Se menciona la importancia de garantizar estándares de calidad tanto en la interfaz de usuario como en los procesos de automatización en la nube. Se deben realizar pruebas exhaustivas para asegurar el funcionamiento correcto del sistema.
 
 
-**Servicios que se van a usar en el CLOUD.**
+## 6 . **Servicios que se van a usar en el CLOUD.**
 
-| Tipo de servicio| Servicio |
-| --------------- | -------- |
+| Tipo de servicio| Servicio | para que nos sirve |
+| --------------- | -------- | ------------------- |
 | Administración | APIs y servicios |
 | Administración | Facturación |
-| Administración | IAM y administración |
+| Administración | IAM y administración | (IAM) Control de acceso de nivel empresarial para que los adm autoricen quienes pueden realizar acciones sobre recursos especificos |
 | Procesamiento  | Compute engine |
 | Procesamiento  | Kubernetes engine |
 | Análisis       | Pub/Sub |
