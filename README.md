@@ -221,3 +221,6 @@ Interconexión y VPN: Google Cloud proporciona opciones de interconexión direct
 SQL
 En Google Cloud, el servicio de SQL engloba varias soluciones de bases de datos gestionadas que permiten a los usuarios implementar, administrar y escalar bases de datos relacionales de manera fácil y eficiente en la nube.
 
+![WhatsApp Image 2024-05-07 at 4 17 14 PM](https://github.com/cafeteriasigloXXI/cafeteriasigloXXI/assets/100285494/a6fbd17e-a724-43f4-b162-90a117852e56)
+
+
