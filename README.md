@@ -115,8 +115,9 @@ Se menciona la importancia de garantizar estándares de calidad tanto en la inte
 | Herramientas de redes  | Conectividad de red |
 | Bases de datos | SQL |
 
-Servicios cloud
-Servicios de APIs de Google Cloud
+## **Servicios cloud**
+
+### Servicios de APIs de Google Cloud
 APIs y servicios
 los servicios de APIs y servicios de Google Cloud ofrecen una serie de herramientas y funcionalidades que permiten a los desarrolladores crear, implementar y gestionar aplicaciones en la nube de Google de manera eficiente.
 
@@ -128,24 +129,29 @@ Nos sirven para:
 •	Posibilitan el desarrollo de aplicaciones personalizadas y soluciones empresariales utilizando los servicios de Google Cloud de manera programática.
 Facturación
 
-¿Qué es?
+**¿Qué es?**
 El servicio de facturación de Google Cloud es una herramienta que permite a los usuarios administrar y controlar los costos asociados con el uso de los servicios de Google Cloud Platform (GCP). Proporciona una interfaz para ver y entender el gasto en la nube, así como para establecer límites de presupuesto, generar informes detallados y administrar métodos de pago.
 Funcionalidades claves
-1.	Visualización de costos: Permite ver de manera detallada el consumo de recursos y los costos asociados con cada servicio de Google Cloud utilizado.
+1. Visualización de costos: Permite ver de manera detallada el consumo de recursos y los costos asociados con cada servicio de Google Cloud utilizado.
 2.	Establecimiento de presupuestos: Permite establecer límites de presupuesto para evitar gastos inesperados y recibir alertas cuando se alcanzan ciertos umbrales de gasto.
 3.	Generación de informes: Proporciona informes detallados sobre el uso y los costos, que pueden ser útiles para el seguimiento financiero, la planificación y la optimización de costos.
 4.	Administración de métodos de pago: Permite agregar, editar y eliminar métodos de pago asociados con la cuenta de facturación, como tarjetas de crédito, cuentas bancarias, etc.
 5.	Facturación consolidada: Para organizaciones con múltiples proyectos en Google Cloud, ofrece la posibilidad de consolidar la facturación en una sola cuenta centralizada, lo que facilita la gestión y el seguimiento del gasto.
-¿Qué importancia tiene?
+
+#### **¿Qué importancia tiene?**
+
 -	Control de costos: Permite a las organizaciones controlar y optimizar sus costos en la nube, lo que es crucial para mantener la eficiencia financiera y evitar sorpresas en la factura.
 -	Transparencia y visibilidad: Proporciona una visión clara y detallada del gasto en la nube, lo que ayuda a los usuarios a comprender dónde se están utilizando los recursos y dónde se pueden realizar ajustes para optimizar el costo.
 -	Gestión financiera: Facilita la planificación financiera al proporcionar informes y herramientas que ayudan a prever y administrar los costos relacionados con la nube.
 
-IAM (Identity and Access Management) y administración
+### **IAM (Identity and Access Management) y administración**
 
-¿Qué es?
+**¿Qué es?**
+
 El servicio de IAM en Google Cloud es una herramienta que permite a los administradores definir quién tiene acceso a los recursos de Google Cloud y qué acciones pueden realizar. IAM se encarga de autenticar y autorizar a los usuarios y servicios para acceder a los recursos de GCP de manera segura y controlada.
-Funcionalidades claves
+
+#### Funcionalidades claves
+
 1.	Gestión de identidades: Permite crear y administrar identidades de usuario, grupos y servicios, lo que facilita la asignación de roles y permisos.
 2.	Definición de roles: Proporciona una amplia variedad de roles predefinidos que especifican conjuntos de permisos comunes, así como la capacidad de crear roles personalizados para necesidades específicas.
 3.	Asignación de roles: Permite asignar roles a usuarios, grupos o servicios a nivel de proyecto, carpeta u organización para controlar el acceso a los recursos.
@@ -154,36 +160,61 @@ Funcionalidades claves
 6.	Auditoría y registro de actividades: Proporciona registros detallados de las acciones realizadas por los usuarios y servicios, lo que permite realizar un seguimiento de los cambios y actividades en el entorno de Google Cloud.
 
 
-Importancia.
-Seguridad: IAM proporciona un mecanismo robusto para controlar el acceso a los recursos de Google Cloud, lo que ayuda a proteger los datos y aplicaciones contra accesos no autorizados y ataques.
-Cumplimiento normativo: Permite a las organizaciones cumplir con requisitos de cumplimiento normativo al garantizar que solo las personas autorizadas tengan acceso a datos y recursos sensibles.
-Gestión centralizada: Facilita la gestión centralizada de permisos y accesos en entornos complejos con múltiples proyectos, equipos y servicios.
-Colaboración segura: Permite a los equipos colaborar de manera segura en proyectos compartidos al definir roles y permisos adecuados para cada usuario o grupo.
-Compute engine
-¿Qué es?
+#### **Importancia.**
+
+- Seguridad: IAM proporciona un mecanismo robusto para controlar el acceso a los recursos de Google Cloud, lo que ayuda a proteger los datos y aplicaciones contra accesos no autorizados y ataques.
+
+- Cumplimiento normativo: Permite a las organizaciones cumplir con requisitos de cumplimiento normativo al garantizar que solo las personas autorizadas tengan acceso a datos y recursos sensibles.
+
+- Gestión centralizada: Facilita la gestión centralizada de permisos y accesos en entornos complejos con múltiples proyectos, equipos y servicios.
+
+- Colaboración segura: Permite a los equipos colaborar de manera segura en proyectos compartidos al definir roles y permisos adecuados para cada usuario o grupo.
+
+### **Compute engine**
+
+**¿Qué es?**
+
 Compute Engine es un servicio de cómputo en la nube que ofrece Google Cloud. Permite a los usuarios crear y administrar máquinas virtuales en el entorno de la nube de Google. Estas máquinas virtuales pueden ejecutar una variedad de sistemas operativos, incluidas varias distribuciones de Linux y Windows Server.
-Funcionalidades claves
+
+#### **Funcionalidades claves**
+
 1.	Creación y gestión de VMs: Permite lanzar y administrar máquinas virtuales en la nube de Google Cloud de manera rápida y sencilla.
+
 2.	Escalabilidad: Ofrece la capacidad de escalar verticalmente (añadiendo más recursos a una VM existente) y horizontalmente (lanzando más VMs) según las necesidades de carga de trabajo.
+
 3.	Variedad de tipos de máquinas: Proporciona una amplia variedad de tipos de máquinas virtuales con diferentes combinaciones de CPU, memoria y capacidad de almacenamiento para adaptarse a diferentes casos de uso y cargas de trabajo.
+
 4.	Almacenamiento persistente: Ofrece opciones de almacenamiento persistente, como discos persistentes y discos locales de estado sólido (SSD), para almacenar datos de manera duradera y confiable.
+
 5.	Redes avanzadas: Proporciona capacidades avanzadas de redes, incluyendo redes virtuales personalizadas, equilibradores de carga, y opciones de configuración de firewall para asegurar y optimizar la conectividad de las VMs.
+
 6.	Integración con otros servicios de Google Cloud: Se integra estrechamente con otros servicios de Google Cloud Platform, como Cloud Storage, BigQuery y Kubernetes Engine, para facilitar el desarrollo y despliegue de aplicaciones en la nube.
 
 
 
 
-Kubernetes Engine en Google Cloud
-¿Qué es?
+### **Kubernetes Engine en Google Cloud**
+
+**¿Qué es?**
+
 Kubernetes Engine es un servicio de Google Cloud que permite a los usuarios implementar y administrar clústeres de Kubernetes en la infraestructura global de Google. Kubernetes es una plataforma de código abierto desarrollada por Google que automatiza la implementación, escalado y operación de aplicaciones en contenedores.
-Funcionalidades clave
+
+#### Funcionalidades clave
+
 1.	Implementación de clústeres de Kubernetes: Permite a los usuarios crear y administrar clústeres de Kubernetes de manera rápida y sencilla en la infraestructura de Google Cloud.
+
 2.	Orquestación de contenedores: Ofrece capacidades avanzadas de orquestación de contenedores utilizando Kubernetes, lo que permite ejecutar aplicaciones en contenedores de manera eficiente y escalable.
+
 3.	Escalado automático: Permite escalar automáticamente los recursos del clúster en función de la carga de trabajo, lo que garantiza un rendimiento óptimo y una alta disponibilidad de las aplicaciones.
+
 4.	Actualizaciones sin tiempo de inactividad: Facilita las actualizaciones de las aplicaciones y del sistema operativo del clúster sin tiempo de inactividad, lo que garantiza una disponibilidad continua de las aplicaciones.
+
 5.	Seguridad avanzada: Ofrece características de seguridad avanzadas, como la autenticación basada en IAM, la autorización basada en roles y la encriptación de datos en reposo y en tránsito, para garantizar la seguridad de las aplicaciones y los datos en el clúster.
-Pub/Sub en Google Cloud
-¿Qué es?
+
+### **Pub/Sub en Google Cloud**
+
+**¿Qué es?**
+
 Pub/Sub es un servicio de mensajería en la nube que permite la comunicación asíncrona entre componentes de aplicaciones distribuidas. Permite a los productores de mensajes enviar mensajes a un tema (topic) y a los consumidores de mensajes suscribirse a esos temas para recibir y procesar los mensajes.
 Funcionalidades clave
 Tópicos y suscripciones: Los mensajes se publican en tópicos y los consumidores se suscriben a esos tópicos para recibir mensajes. Los tópicos actúan como canales de comunicación entre productores y consumidores.
@@ -196,28 +227,34 @@ Integración de sistemas distribuidos: Facilita la integración entre sistemas d
 Implementación de sistemas de mensajería: Desarrollo de sistemas de mensajería y colas de trabajo para la coordinación de procesos y la gestión de flujos de trabajo complejos.
 Streaming de datos: Transferencia de datos en tiempo real entre aplicaciones y sistemas utilizando flujos de mensajes, lo que permite la construcción de aplicaciones de streaming de datos y análisis en tiempo real.
 
-Composer
-¿Qué es? 
+### Composer
+
+**¿Qué es?**
+
 Cloud Composer es un servicio de orquestación de flujos de trabajo basado en Apache Airflow, que permite a los usuarios programar, monitorear y gestionar flujos de trabajo complejos en la nube. Utiliza el concepto de DAGs (Directed Acyclic Graphs, o Grafos Dirigidos Acíclicos) para definir la secuencia de tareas y dependencias entre ellas.
 Funcionalidades clave
 Orquestación de flujos de trabajo: Permite definir flujos de trabajo complejos utilizando DAGs, donde cada tarea puede ser un script de Python, una tarea de Bash, una operación de GCP, entre otros.
 Escalabilidad y alta disponibilidad: Cloud Composer es completamente gestionado por Google Cloud, lo que significa que escala automáticamente para manejar flujos de trabajo de cualquier tamaño y garantiza una alta disponibilidad de los servicios.
 Monitoreo y registro: Ofrece herramientas de monitoreo y registro integradas que permiten visualizar el estado y el rendimiento de los flujos de trabajo, así como diagnosticar y solucionar problemas de manera eficiente.
 
-Casos de uso
+#### **Casos de uso**
 Procesamiento de datos ETL (Extract, Transform, Load): Orquestación de flujos de trabajo para la extracción, transformación y carga de datos entre diferentes sistemas y fuentes de datos.
 Automatización de procesos empresariales: Programación de flujos de trabajo para la automatización de procesos empresariales, como la generación de informes, la gestión de inventario o la facturación.
 Despliegue de aplicaciones y microservicios: Orquestación de flujos de trabajo para el despliegue y la gestión de aplicaciones y microservicios en la nube, facilitando la implementación y escalado de infraestructura.
 
-servicio de Conectividad de red en Google Cloud
-¿Qué es?
+### servicio de Conectividad de red en Google Cloud
+
+**¿Qué es?**
+
 En Google Cloud, el servicio de conectividad de red engloba una variedad de herramientas y servicios diseñados para gestionar y optimizar la comunicación entre los recursos de la nube, tanto dentro como fuera del entorno de Google Cloud Platform (GCP).
-¿Qué incluye?
+
+**¿Qué incluye?**
+
 Redes Virtuales (VPC): Las redes virtuales permiten crear y administrar redes privadas virtuales en la nube de Google Cloud, lo que permite a los usuarios aislar y segmentar sus recursos de manera segura.
 Subredes: Dentro de una red virtual, las subredes permiten dividir el espacio de direcciones IP en segmentos más pequeños para organizar y controlar la conectividad entre los recursos de la red.
 Firewall: El servicio de firewall de Google Cloud permite definir reglas de filtrado de red para controlar el tráfico de entrada y salida en las redes virtuales, lo que garantiza la seguridad de los recursos de la nube.
 Interconexión y VPN: Google Cloud proporciona opciones de interconexión directa y VPN (Virtual Private Network) para establecer conexiones seguras y confiables entre la infraestructura de Google Cloud y las redes locales o de otros proveedores de servicios en la nube.
 
-SQL
+### SQL
 En Google Cloud, el servicio de SQL engloba varias soluciones de bases de datos gestionadas que permiten a los usuarios implementar, administrar y escalar bases de datos relacionales de manera fácil y eficiente en la nube.
 
